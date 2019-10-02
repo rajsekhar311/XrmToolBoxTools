@@ -1,0 +1,58 @@
+2019-03-27 01:21:32.461 PM	AMEOS	Warning	Settings not found => a new settings file has been created!
+2019-03-27 01:26:24.850 PM	AMEOS	Warning	Settings not found => a new settings file has been created!
+2019-03-28 11:07:16.528 AM	AMEOS	Warning	Settings not found => a new settings file has been created!
+2019-03-28 12:06:34.899 PM		Warning	Settings not found => a new settings file has been created!
+2019-03-28 12:12:40.051 PM		Warning	Settings not found => a new settings file has been created!
+2019-03-28 12:12:53.814 PM	AMEOS	Info	Connection has changed to: https://ameosdev.crm4.dynamics.com/
+2019-03-28 12:13:43.378 PM	AMEOS	Warning	Settings not found => a new settings file has been created!
+2019-03-28 12:13:44.645 PM	AMEOS	Info	Parent business unit retrival started
+2019-03-28 12:13:44.944 PM	AMEOS	Info	Clear controls
+2019-03-28 12:13:44.950 PM	AMEOS	Info	Populate parent business unit
+2019-03-28 12:13:44.960 PM	AMEOS	Info	Populating child business units for crmnavintegrationbusiness unit
+2019-03-28 12:13:45.188 PM	AMEOS	Info	Populating child business units for Deal Sourcebusiness unit
+2019-03-28 12:13:45.302 PM	AMEOS	Info	Populating child business units for Strategischbusiness unit
+2019-03-28 12:13:45.651 PM	AMEOS	Info	Populating child business units for Beteiligungserwerb Inaktivbusiness unit
+2019-03-28 12:13:45.781 PM	AMEOS	Info	Populating child business units for Operativbusiness unit
+2019-03-28 12:13:45.890 PM	AMEOS	Info	Coloring inactive business units
+2019-03-28 12:13:45.900 PM	AMEOS	Info	Coloring inactive business units
+2019-03-28 12:13:45.910 PM	AMEOS	Info	Coloring inactive business units
+2019-03-28 12:13:45.914 PM	AMEOS	Info	Coloring inactive business units
+2019-03-28 12:13:45.919 PM	AMEOS	Info	Coloring inactive business units
+2019-03-28 12:13:45.923 PM	AMEOS	Info	Coloring inactive business units
+2019-10-02 01:05:42.463 PM	APS DEV	Warning	Settings not found => a new settings file has been created!
+2019-10-02 01:05:44.345 PM	APS DEV	Info	Parent business unit retrival started
+2019-10-02 01:05:45.661 PM	APS DEV	Info	Clear controls
+2019-10-02 01:05:45.666 PM	APS DEV	Info	Populate parent business unit
+2019-10-02 01:05:45.675 PM	APS DEV	Info	Populating child business units for innocate0business unit
+2019-10-02 01:05:45.779 PM	APS DEV	Info	Coloring inactive business units
+2019-10-02 01:05:45.793 PM	APS DEV	Info	Coloring inactive business units
+2019-10-02 01:06:47.318 PM	AMEOS	Warning	Settings not found => a new settings file has been created!
+2019-10-02 01:06:49.049 PM	AMEOS	Info	Parent business unit retrival started
+2019-10-02 01:06:49.359 PM	AMEOS	Info	Clear controls
+2019-10-02 01:06:49.366 PM	AMEOS	Info	Populate parent business unit
+2019-10-02 01:06:49.378 PM	AMEOS	Info	Populating child business units for crmnavintegrationbusiness unit
+2019-10-02 01:06:51.934 PM	AMEOS	Info	Populating child business units for Deal Sourcebusiness unit
+2019-10-02 01:06:52.019 PM	AMEOS	Info	Populating child business units for Strategischbusiness unit
+2019-10-02 01:06:54.508 PM	AMEOS	Info	Populating child business units for Beteiligungserwerb Inaktivbusiness unit
+2019-10-02 01:06:55.281 PM	AMEOS	Info	Populating child business units for Operativbusiness unit
+2019-10-02 01:06:55.362 PM	AMEOS	Info	Coloring inactive business units
+2019-10-02 01:06:55.375 PM	AMEOS	Info	Coloring inactive business units
+2019-10-02 01:06:55.387 PM	AMEOS	Info	Coloring inactive business units
+2019-10-02 01:06:55.400 PM	AMEOS	Info	Coloring inactive business units
+2019-10-02 01:06:55.412 PM	AMEOS	Info	Coloring inactive business units
+2019-10-02 01:06:55.424 PM	AMEOS	Info	Coloring inactive business units
+2019-10-02 01:16:54.234 PM	AMEOS	Warning	Settings not found => a new settings file has been created!
+2019-10-02 01:16:58.077 PM	AMEOS	Info	Parent business unit retrival started
+2019-10-02 01:16:58.313 PM	AMEOS	Info	Clear controls
+2019-10-02 01:16:58.319 PM	AMEOS	Info	Populate parent business unit
+2019-10-02 01:16:58.331 PM	AMEOS	Info	Populating child business units for crmnavintegrationbusiness unit
+2019-10-02 01:16:58.556 PM	AMEOS	Info	Populating child business units for Deal Sourcebusiness unit
+2019-10-02 01:16:58.858 PM	AMEOS	Info	Populating child business units for Strategischbusiness unit
+2019-10-02 01:16:58.953 PM	AMEOS	Info	Populating child business units for Beteiligungserwerb Inaktivbusiness unit
+2019-10-02 01:16:59.038 PM	AMEOS	Info	Populating child business units for Operativbusiness unit
+2019-10-02 01:16:59.131 PM	AMEOS	Info	Coloring inactive business units
+2019-10-02 01:16:59.144 PM	AMEOS	Info	Coloring inactive business units
+2019-10-02 01:16:59.158 PM	AMEOS	Info	Coloring inactive business units
+2019-10-02 01:16:59.171 PM	AMEOS	Info	Coloring inactive business units
+2019-10-02 01:16:59.183 PM	AMEOS	Info	Coloring inactive business units
+2019-10-02 01:16:59.194 PM	AMEOS	Info	Coloring inactive business units

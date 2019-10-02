@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Options xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AllowLogUsage>true</AllowLogUsage>
+  <CheckUpdateOnStartup>true</CheckUpdateOnStartup>
+  <CloseEachPluginSilently>false</CloseEachPluginSilently>
+  <CloseOpenedPluginsSilently>false</CloseOpenedPluginsSilently>
+  <ClosePluginsSilentlyOnWindowsShutdown>true</ClosePluginsSilentlyOnWindowsShutdown>
+  <DisplayLargeIcons>true</DisplayLargeIcons>
+  <DisplayOrder>Alphabetically</DisplayOrder>
+  <DisplayPluginsStoreOnlyIfUpdates>false</DisplayPluginsStoreOnlyIfUpdates>
+  <DisplayPluginsStoreOnStartup>true</DisplayPluginsStoreOnStartup>
+  <DisplayRecentlyUpdatedFirst>false</DisplayRecentlyUpdatedFirst>
+  <DoNotCheckForUpdates>false</DoNotCheckForUpdates>
+  <DoNotRememberPluginsWithoutConnection>false</DoNotRememberPluginsWithoutConnection>
+  <DoNotShowStartPage>true</DoNotShowStartPage>
+  <HiddenPlugins />
+  <LastAdvertisementDisplay>2019-10-02T13:05:42.5803335+02:00</LastAdvertisementDisplay>
+  <LastConnection>AMEOS</LastConnection>
+  <LastPlugin />
+  <LastUpdateCheck>2019-10-02T13:16:34.5100828+02:00</LastUpdateCheck>
+  <MergeConnectionFiles>false</MergeConnectionFiles>
+  <MostUsedList>
+    <PluginUseCount>
+      <Count>67</Count>
+      <Name>BusinessUnitHierarchyDraft.MyPlugin</Name>
+    </PluginUseCount>
+    <PluginUseCount>
+      <Count>10</Count>
+      <Name>BusinessUnitHierarchy.MyPlugin</Name>
+    </PluginUseCount>
+  </MostUsedList>
+  <MruItemsToDisplay>10</MruItemsToDisplay>
+  <PluginsListDocking>Document</PluginsListDocking>
+  <PluginsListIsHidden>false</PluginsListIsHidden>
+  <PluginsStoreShowIncompatible xsi:nil="true" />
+  <PluginsStoreShowInstalled xsi:nil="true" />
+  <PluginsStoreShowNew xsi:nil="true" />
+  <PluginsStoreShowUpdates xsi:nil="true" />
+  <PluginsUpdateSkip />
+  <RememberSession>false</RememberSession>
+  <ReuseConnections>false</ReuseConnections>
+  <ShowPluginUpdatesPanelAtStartup>true</ShowPluginUpdatesPanelAtStartup>
+  <FormSize>
+    <Height>840</Height>
+    <IsMaximized>true</IsMaximized>
+    <Width>1552</Width>
+  </FormSize>
+  <Theme>Light theme</Theme>
+</Options>

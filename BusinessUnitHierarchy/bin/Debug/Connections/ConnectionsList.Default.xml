@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CrmConnections>
+  <Connections>
+    <Proxy>
+      <UseCustomProxy>false</UseCustomProxy>
+      <UseInternetExplorerProxy>false</UseInternetExplorerProxy>
+      <Address></Address>
+      <Username></Username>
+      <Password></Password>
+      <UseDefaultCredentials>false</UseDefaultCredentials>
+      <ByPassProxyOnLocal>false</ByPassProxyOnLocal>
+    </Proxy>
+    <UseMruDisplay>false</UseMruDisplay>
+    <Name>Default</Name>
+    <ConnectionDetail>
+      <AuthType>OnlineFederation</AuthType>
+      <ConnectionId>b4442161-52cb-40df-8d3b-b28f7d9e7bea</ConnectionId>
+      <ConnectionName>AMEOS</ConnectionName>
+      <ConnectionString></ConnectionString>
+      <UseConnectionString>false</UseConnectionString>
+      <IsCustomAuth>true</IsCustomAuth>
+      <UseMfa>false</UseMfa>
+      <UseIfd>false</UseIfd>
+      <UseOnline>true</UseOnline>
+      <UseOsdp>true</UseOsdp>
+      <UserDomain></UserDomain>
+      <UserName>phani.tummalapalli@allgeier-ps.com</UserName>
+      <UserPassword>CQgBOFKrzysVvPyPRmSvcw==</UserPassword>
+      <SavePassword>true</SavePassword>
+      <UseSsl>true</UseSsl>
+      <AzureAdAppId>00000000-0000-0000-0000-000000000000</AzureAdAppId>
+      <ReplyUrl></ReplyUrl>
+      <UseIfd>false</UseIfd>
+      <ServerName>ameosdev.crm4.dynamics.com</ServerName>
+      <ServerPort>443</ServerPort>
+      <OriginalUrl>https://ameosdev.crm4.dynamics.com</OriginalUrl>
+      <Organization>crmnavintegration</Organization>
+      <OrganizationUrlName>ameosdev</OrganizationUrlName>
+      <OrganizationFriendlyName>AMEOS Dev</OrganizationFriendlyName>
+      <OrganizationServiceUrl>https://ameosdev.api.crm4.dynamics.com/XRMServices/2011/Organization.svc</OrganizationServiceUrl>
+      <OrganizationDataServiceUrl>https://ameosdev.api.crm4.dynamics.com/XRMServices/2011/OrganizationData.svc</OrganizationDataServiceUrl>
+      <OrganizationVersion>9.1.0.8627</OrganizationVersion>
+      <HomeRealmUrl></HomeRealmUrl>
+      <Timeout>1200000000</Timeout>
+      <WebApplicationUrl>https://ameosdev.crm4.dynamics.com/</WebApplicationUrl>
+      <IsEnvironmentHighlightSet>false</IsEnvironmentHighlightSet>
+      <EnvironmentText></EnvironmentText>
+      <EnvironmentColor>#FF00FF</EnvironmentColor>
+      <EnvironmentTextColor>#FFFFFF</EnvironmentTextColor>
+      <IsFromSdkLoginCtrl>false</IsFromSdkLoginCtrl>
+      <LastUsedOn>03/28/2019 12:13:43</LastUsedOn>
+      <RefreshToken></RefreshToken>
+      <S2SClientSecret />
+    </ConnectionDetail>
+    <ConnectionDetail>
+      <AuthType>OnlineFederation</AuthType>
+      <ConnectionId>3694a38c-fdd4-4ff9-a353-23c987788790</ConnectionId>
+      <ConnectionName>APS DEV</ConnectionName>
+      <ConnectionString></ConnectionString>
+      <UseConnectionString>false</UseConnectionString>
+      <IsCustomAuth>true</IsCustomAuth>
+      <UseMfa>false</UseMfa>
+      <UseIfd>false</UseIfd>
+      <UseOnline>true</UseOnline>
+      <UseOsdp>true</UseOsdp>
+      <UserDomain></UserDomain>
+      <UserName>phani.tummalapalli@allgeier-ps.com</UserName>
+      <UserPassword>CQgBOFKrzysVvPyPRmSvcw==</UserPassword>
+      <SavePassword>true</SavePassword>
+      <UseSsl>true</UseSsl>
+      <AzureAdAppId>00000000-0000-0000-0000-000000000000</AzureAdAppId>
+      <ReplyUrl></ReplyUrl>
+      <UseIfd>false</UseIfd>
+      <ServerName>innodemo.crm4.dynamics.com</ServerName>
+      <ServerPort>443</ServerPort>
+      <OriginalUrl>https://innodemo.crm4.dynamics.com/</OriginalUrl>
+      <Organization>innocate0</Organization>
+      <OrganizationUrlName>innodemo</OrganizationUrlName>
+      <OrganizationFriendlyName>APS Dev</OrganizationFriendlyName>
+      <OrganizationServiceUrl>https://innodemo.api.crm4.dynamics.com/XRMServices/2011/Organization.svc</OrganizationServiceUrl>
+      <OrganizationDataServiceUrl>https://innodemo.api.crm4.dynamics.com/XRMServices/2011/OrganizationData.svc</OrganizationDataServiceUrl>
+      <OrganizationVersion>9.1.0.8627</OrganizationVersion>
+      <HomeRealmUrl></HomeRealmUrl>
+      <Timeout>1200000000</Timeout>
+      <WebApplicationUrl>https://innodemo.crm4.dynamics.com/</WebApplicationUrl>
+      <IsEnvironmentHighlightSet>false</IsEnvironmentHighlightSet>
+      <EnvironmentText></EnvironmentText>
+      <EnvironmentColor>#FF00FF</EnvironmentColor>
+      <EnvironmentTextColor>#FFFFFF</EnvironmentTextColor>
+      <IsFromSdkLoginCtrl>false</IsFromSdkLoginCtrl>
+      <LastUsedOn>01/01/0001 00:00:00</LastUsedOn>
+      <RefreshToken></RefreshToken>
+      <S2SClientSecret />
+    </ConnectionDetail>
+  </Connections>
+</CrmConnections>

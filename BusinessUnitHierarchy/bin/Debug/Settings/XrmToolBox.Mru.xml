@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMostRecentlyUsedItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MostRecentlyUsedItem>
+    <PluginName>My First Plugin</PluginName>
+    <ConnectionId>a3797067-fb49-4687-b6d0-d715b00f411b</ConnectionId>
+    <ConnectionName>AMESO</ConnectionName>
+    <Date>2019-03-26T17:01:42.6041474+01:00</Date>
+  </MostRecentlyUsedItem>
+  <MostRecentlyUsedItem>
+    <PluginName>Business Unit Hierarchy</PluginName>
+    <ConnectionId>a3797067-fb49-4687-b6d0-d715b00f411b</ConnectionId>
+    <ConnectionName />
+    <Date>2019-03-27T13:10:39.2719427+01:00</Date>
+  </MostRecentlyUsedItem>
+  <MostRecentlyUsedItem>
+    <PluginName>Business Unit Hierarchy</PluginName>
+    <ConnectionId>b4442161-52cb-40df-8d3b-b28f7d9e7bea</ConnectionId>
+    <ConnectionName>AMEOS</ConnectionName>
+    <Date>2019-10-02T13:16:54.3641312+02:00</Date>
+  </MostRecentlyUsedItem>
+  <MostRecentlyUsedItem>
+    <PluginName>Business Unit Hierarchy</PluginName>
+    <ConnectionId>00000000-0000-0000-0000-000000000000</ConnectionId>
+    <Date>2019-03-28T12:12:40.1523773+01:00</Date>
+  </MostRecentlyUsedItem>
+  <MostRecentlyUsedItem>
+    <PluginName>Business Unit Hierarchy</PluginName>
+    <ConnectionId>3694a38c-fdd4-4ff9-a353-23c987788790</ConnectionId>
+    <ConnectionName>APS DEV</ConnectionName>
+    <Date>2019-10-02T13:05:42.3908478+02:00</Date>
+  </MostRecentlyUsedItem>
+</ArrayOfMostRecentlyUsedItem>
