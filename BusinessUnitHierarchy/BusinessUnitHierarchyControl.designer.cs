@@ -84,7 +84,7 @@
             this.btnGenerateBU.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnGenerateBU.Name = "btnGenerateBU";
             this.btnGenerateBU.Size = new System.Drawing.Size(247, 28);
-            this.btnGenerateBU.Text = "Generate Business Unit Hierarchy";
+            this.btnGenerateBU.Text = "Load Business Unit Hierarchy";
             this.btnGenerateBU.Click += new System.EventHandler(this.btnGenerateBU_Click);
             // 
             // tvBusinessUnits
